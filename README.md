@@ -4,7 +4,6 @@ This project aims to identify defects in pharmaceutical-grade glass bottles and 
 1.  Base images without preprocessing.
 2.  Sharpened images created with edge detection.
 
---
 
 ## **Project Features**
 Custom Dataset Class: A PyTorch dataset is implemented to load and preprocess images and labels.
@@ -13,8 +12,7 @@ Sharpened Image Dataset: Edge detection and image sharpening are applied to enha
 Model Training: Both base and sharpened datasets are used for comparison.
 Metrics: Precision, recall, and F1-score are computed to evaluate model performance.
 
---
-
+Link to project walkthrough and documentation: https://jdrew153.github.io/Defect-Detection-CNN/main.html
 
 ## **Dataset**
 Structure
